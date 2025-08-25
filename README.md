@@ -38,7 +38,7 @@
 - **Birds** - I'm a Goldfinch and Canary enthusiast! 🐦
 
 ⚡ **Fun fact**
-- I'm a **24-year-old Computer Science student** who loves building both web applications and caring for Goldfinches and Canaries! 🐦
+- I'm a **24-year-old Computer Science student** who loves building both web applications and mobile apps that solve problems I face daily.
 - I'm diving deep into **cybersecurity** with my CPTS certification journey! 🔐
 
 ---
