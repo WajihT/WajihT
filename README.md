@@ -39,8 +39,7 @@
 
 ⚡ **Fun fact**
 - I'm a **24-year-old Computer Science student** who loves building both web applications and caring for Goldfinches and Canaries! 🐦
-- I built a **custom search engine** and even created a puzzle called "Decrypt Sequence" that leads to a hidden search engine - because who doesn't love a good mystery? 🔍
-- Currently mastering the art of **penetration testing** while working with cutting-edge medical technology at Brainlab! 🔐
+- I'm diving deep into **cybersecurity** with my CPTS certification journey! 🔐
 
 ---
 
