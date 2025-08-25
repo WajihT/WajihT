@@ -11,7 +11,6 @@
 - **Expense mobile app** and its web version for tracking personal financials
 - **Expanding [MyToolkit](https://my-toolkit-ecru.vercel.app/)** with more useful tools I find myself using daily
 - **Projects Dashboard** to have a better overview of my running projects and see all their analytics in one place
-- Working with the **Strategic and Digital IT team at Brainlab** on SuccessFactors HR solution implementation
 
 👯 **I'm looking to collaborate on**
 - **Full-stack web applications** that make a meaningful impact in people's daily lives
