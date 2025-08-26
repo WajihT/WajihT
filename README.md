@@ -22,7 +22,7 @@
 
  <br> 
   
-<img src="./assets/img/3.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> **I'm looking to collaborate on**
+<img src="./assets/img/3.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> **I'm looking to collaborate on**
 - **Full-stack web applications** that make a meaningful impact in people's daily lives
 - **Open source projects** involving modern web technologies like React, Next.js, and Node.js
 - **Cybersecurity tools and research** - especially projects related to penetration testing and security analysis
