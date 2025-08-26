@@ -6,7 +6,7 @@
 
 ---
 
-<img src="./assets/img/1.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);">**I'm currently working on**
+<img src="./assets/img/1.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;">**I'm currently working on**
 
 - **F1 Analytics web app** - Expanding it with new features for better Formula 1 data visualization and analytics [Link](https://f1analytics.online/)
 - **Mobile version** of the F1 Analytics app for iOS and Android
