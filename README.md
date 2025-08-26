@@ -6,7 +6,7 @@
 
 ---
 
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;"><path d="M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915"/><circle cx="12" cy="12" r="3"/></svg>**I'm currently working on**
+<img src="./assets/img/1.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);">**I'm currently working on**
 
 - **F1 Analytics web app** - Expanding it with new features for better Formula 1 data visualization and analytics [Link](https://f1analytics.online/)
 - **Mobile version** of the F1 Analytics app for iOS and Android
@@ -18,12 +18,11 @@
 <br>
 
 <details>
-  <summary><strong><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-  style="vertical-align: middle; margin-right: 8px; margin-bottom: 3px;" class="lucide lucide-info-icon lucide-info"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg> More About Me</strong></summary>
+  <summary><strong><img src="./assets/img/2.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> More About Me</strong></summary>
 
  <br> 
   
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;" class="lucide lucide-handshake-icon lucide-handshake"><path d="m11 17 2 2a1 1 0 1 0 3-3"/><path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4"/><path d="m21 3 1 11h-2"/><path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3"/><path d="M3 4h8"/></svg> **I'm looking to collaborate on**
+<img src="./assets/img/3.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> **I'm looking to collaborate on**
 - **Full-stack web applications** that make a meaningful impact in people's daily lives
 - **Open source projects** involving modern web technologies like React, Next.js, and Node.js
 - **Cybersecurity tools and research** - especially projects related to penetration testing and security analysis
@@ -31,7 +30,7 @@
 
 ---
 
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;" class="lucide lucide-book-open-icon lucide-book-open"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></svg> **I'm currently learning**
+<img src="./assets/img/4.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> **I'm currently learning**
 - **Penetration Testing** methodologies and tools (working towards CPTS certification)
 - **Advanced React patterns** and performance optimization techniques
 - **Cloud security** and modern DevOps practices
@@ -40,7 +39,7 @@
 
 </details>
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;" class="lucide lucide-layers-icon lucide-layers"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"/><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"/></svg> Tech Stack
+## <img src="./assets/img/5.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> Tech Stack
 
 <div align="center">
 
@@ -131,7 +130,7 @@
 
 ---
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chart-column-icon lucide-chart-column"><path d="M3 3v16a2 2 0 0 0 2 2h16"/><path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/></svg> GitHub Stats
+## <img src="./assets/img/6.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihT&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
