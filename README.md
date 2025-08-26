@@ -18,6 +18,13 @@
 - **Cybersecurity tools and research** - especially projects related to penetration testing and security analysis
 - **Formula 1 data analytics projects** and sports visualization applications
 
+---
+
+<details>
+  <summary><strong>🔍 Learn More About Me</strong></summary>
+  
+  <br>
+
 🤝 **I'm looking for help with**
 - **Advanced cloud architectures** and scaling applications on AWS
 - **CPTS certification preparation** - currently working towards becoming a Certified Penetration Testing Specialist
@@ -39,6 +46,7 @@
 ⚡ **Fun fact**
 - I'm a **24-year-old Computer Science student** who loves building both web applications and mobile apps that solve problems I face daily.
 - I'm diving deep into **cybersecurity** with my CPTS certification journey! 🔐
+</details>
 
 ---
 
