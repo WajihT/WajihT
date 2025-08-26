@@ -18,7 +18,7 @@
 <br>
 
 <details>
-  <summary><strong><img src="./assets/img/2.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> More About Me</strong></summary>
+  <summary><strong><img src="./assets/img/2.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> More About Me</strong></summary>
 
  <br> 
   
@@ -30,7 +30,7 @@
 
 ---
 
-<img src="./assets/img/4.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> **I'm currently learning**
+<img src="./assets/img/4.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> **I'm currently learning**
 - **Penetration Testing** methodologies and tools (working towards CPTS certification)
 - **Advanced React patterns** and performance optimization techniques
 - **Cloud security** and modern DevOps practices
@@ -39,7 +39,7 @@
 
 </details>
 
-## <img src="./assets/img/5.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> Tech Stack
+## <img src="./assets/img/5.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; "> Tech Stack
 
 <div align="center">
 
@@ -130,7 +130,7 @@
 
 ---
 
-## <img src="./assets/img/6.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: invert(1);"> GitHub Stats
+## <img src="./assets/img/6.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihT&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
