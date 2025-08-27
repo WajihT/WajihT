@@ -6,7 +6,7 @@
 
 ---
 
-<img src="./assets/img/1.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;">**I'm currently working on**
+**⚙️ I'm currently working on**
 
 - **F1 Analytics web app** - Expanding it with new features for better Formula 1 data visualization and analytics [Link](https://f1analytics.online/)
 - **Mobile version** of the F1 Analytics app for iOS and Android
@@ -18,11 +18,11 @@
 <br>
 
 <details>
-  <summary><strong><img src="./assets/img/2.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> More About Me</strong></summary>
+  <summary><strong>❕More About Me</strong></summary>
 
  <br> 
   
-<img src="./assets/img/3.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> **I'm looking to collaborate on**
+🫱🏼‍🫲🏼 **I'm looking to collaborate on**
 - **Full-stack web applications** that make a meaningful impact in people's daily lives
 - **Open source projects** involving modern web technologies like React, Next.js, and Node.js
 - **Cybersecurity tools and research** - especially projects related to penetration testing and security analysis
@@ -30,7 +30,7 @@
 
 ---
 
-<img src="./assets/img/4.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> **I'm currently learning**
+📖 **I'm currently learning**
 - **Penetration Testing** methodologies and tools (working towards CPTS certification)
 - **Advanced React patterns** and performance optimization techniques
 - **Cloud security** and modern DevOps practices
