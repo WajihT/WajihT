@@ -4,8 +4,6 @@
   <img src="assets\img\pp_final.png">
 </div>
 
-![](https://hit.yhype.me/github/profile?account_id=71191955)
-
 ---
 
 **⚙️ I'm currently working on**
