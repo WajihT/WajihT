@@ -132,6 +132,7 @@
 <!--
 ## <img src="./assets/img/6.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> GitHub Stats
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihT&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
