@@ -129,6 +129,11 @@
 </div>
 
 ---
+
+![Snake animation](https://raw.githubusercontent.com/wajihT/wajihT/output/github-contribution-grid-snake-dark.svg)
+
+
+
 <!--
 ## <img src="./assets/img/6.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"> GitHub Stats
 
