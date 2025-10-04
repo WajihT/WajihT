@@ -8,7 +8,7 @@
 
 **⚙️ I'm currently working on**
 
-- **F1 Analytics web app** - Expanding it with new features for better Formula 1 data visualization and analytics [Link](https://f1analytics.online/)
+- **F1 Analytics web app** - Expanding it with new features for better Formula 1 data visualization and analytics [f1analytics.online](https://f1analytics.online/)
 - **Mobile version** of the F1 Analytics app for iOS and Android
 - **Setting up my own home lab** - Building a home server, NAS, and network infrastructure
 - **Expense mobile app** and its web version for tracking personal financials
