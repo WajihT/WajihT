@@ -8,11 +8,12 @@
 
 **⚙️ I'm currently working on**
 
-- **F1 Analytics web app** - Expanding it with new features for better Formula 1 data visualization and analytics [Link](https://f1analytics.online/)
+- **[PeopleWillPay](https://peoplewillpay.com)** - A SaaS platform helping entrepreneurs find validated business ideas by aggregating demand signals from Reddit, Twitter, and Hacker News
+- **[F1 Analytics web app](https://f1analytics.online/)** - Expanding it with new features for better Formula 1 data visualization and analytics
 - **Mobile version** of the F1 Analytics app for iOS and Android
 - **Setting up my own home lab** - Building a home server, NAS, and network infrastructure
 - **Expense mobile app** and its web version for tracking personal financials
-- **Expanding [MyToolkit](https://my-toolkit-ecru.vercel.app/)** with more useful tools I find myself using daily
+- **[MyToolkit](https://my-toolkit-ecru.vercel.app/)** - Expanding it with more useful tools I find myself using daily
 - **Projects Dashboard** to have a better overview of my running projects and see all their analytics in one place
 
 <br>
@@ -149,5 +150,4 @@
 </div>
 
 -->
-
 
