@@ -8,7 +8,7 @@
 
 **⚙️ I'm currently working on**
 
-- **[PeopleWillPay](https://peoplewillpay.com)** - A SaaS platform helping people find validated business ideas by aggregating demand signals from around the internet
+- **[PeopleWillPay](https://peoplewillpay.com)** - A SaaS platform helping people find validated business ideas from around the internet
 - **[F1 Analytics web app](https://f1analytics.online/)** - Expanding it with new features for better Formula 1 data visualization and analytics
 - **Mobile version** of the F1 Analytics app for Android
 - **Setting up my own home lab** - Building a home server, NAS, and network infrastructure
