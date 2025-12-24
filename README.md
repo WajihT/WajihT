@@ -8,9 +8,9 @@
 
 **⚙️ I'm currently working on**
 
-- **[PeopleWillPay](https://peoplewillpay.com)** - A SaaS platform helping entrepreneurs find validated business ideas by aggregating demand signals from Reddit, Twitter, and Hacker News
+- **[PeopleWillPay](https://peoplewillpay.com)** - A SaaS platform helping people find validated business ideas by aggregating demand signals from around the internet
 - **[F1 Analytics web app](https://f1analytics.online/)** - Expanding it with new features for better Formula 1 data visualization and analytics
-- **Mobile version** of the F1 Analytics app for iOS and Android
+- **Mobile version** of the F1 Analytics app for Android
 - **Setting up my own home lab** - Building a home server, NAS, and network infrastructure
 - **Expense mobile app** and its web version for tracking personal financials
 - **[MyToolkit](https://my-toolkit-ecru.vercel.app/)** - Expanding it with more useful tools I find myself using daily
