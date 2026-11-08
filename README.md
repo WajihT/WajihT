@@ -1,11 +1,12 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=1000&color=4ADEEE&center=true&vCenter=true&width=1200&lines=Hi+there,+I'm+Wajih!;Computer+Science+Student;Full-Stack+Developer;Cybersecurity+Enthusiast+|+F1+Fan" alt="Typing SVG" />
 
-  <img src="assets\img\pp_final.png">
+  <!--<img src="assets\img\pp_final.png">-->
 </div>
 
----
-
+<!-- ---
+<!--
 **⚙️ I'm currently working on**
 
 - **[PeopleWillPay](https://peoplewillpay.com)** - A SaaS platform helping people find validated business ideas from around the internet
@@ -127,8 +128,9 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 -->
+<!--
 </div>
-
+-->
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/wajihT/wajihT/output/github-contribution-grid-snake-dark.svg)
